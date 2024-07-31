@@ -1,4 +1,4 @@
-twisted>=15.2.1
+twisted>=24.7.0rc1
 cryptography
 configparser
 pyopenssl
